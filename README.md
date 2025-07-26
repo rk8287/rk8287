@@ -9,6 +9,7 @@
 - 👯 I’m looking to collaborate on **open-source and real-world projects**
 - 💬 Ask me about **JavaScript, React, Node.js, MongoDB**
 - 📫 Reach me: **raunak8287@gmail.com**
+- 🌐 Portfolio: https://personal-portfolio-qxcs.vercel.app/
 - ⚡ Fun fact: I love solving real-world problems with code!
 
 ---
@@ -54,10 +55,11 @@
 
 ---
 
-## 📬 Connect With Me
+## 📬 Connect With Me:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raunak8287@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link-here) <!-- Replace this link -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link-here)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://raunak-portfolio.vercel.app/)
 
 ---
 
